@@ -1,0 +1,2 @@
+# EndGameSurprise
+一个使用Java和BukkitAPI编写的BedWarsRel插件拓展
