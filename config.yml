@@ -1,0 +1,20 @@
+#======================
+# EndGameSurprise配置文件
+# QQ: 3407053348 凯文
+#======================
+#使用说明: 请修改BedWarsRel插件的endgame-in-lobby和titles.win.enabled为false
+
+#渲染玩家名粒子
+TextEffect: true
+#渲染圆环粒子
+WarpEffect: true
+#渲染涡轮粒子
+VortexEffect: true
+#胜利提示
+WinerTitle: "§6§l大吉大利 今晚吃鸡"
+#无终结者提示
+NobodyEndGame: "§f§l这场游戏没有终结者"
+#终结主标题
+EndTitle: "§c§l终结"
+#终结副标题'
+EndSubTitle: "§f你杀死了最后一个敌人"
